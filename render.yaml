@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: research-intelligence-platform
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.11
+      - key: SERPAPI_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: CONTACT_EMAIL
+        sync: false
+      - key: OPENALEX_API_KEY
+        sync: false
