@@ -1,15 +1,26 @@
-
-<div align="center">
+ <div align="center">
 
 <img src="screenshots/readme-banner.png" alt="Research Intelligence Platform — pastel research workspace banner" width="100%">
 
 ### Discover research. Connect evidence. Generate insights.
 
-[![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+*A friendly research workspace for students, curious minds, and future innovators.*
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![MIT License](https://img.shields.io/badge/License-MIT-6A9990?style=flat-square)](LICENSE)
 
 </div>
+
+---
+
+<p align="center">
+  <a href="#-highlights">Features</a> ·
+  <a href="#-get-started">Get Started</a> ·
+  <a href="#-api-configuration">API Setup</a> ·
+  <a href="#-research-radar-workflow">Research Radar</a> ·
+  <a href="#-deployment">Deployment</a>
+</p>
 
 ---
 
