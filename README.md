@@ -4,29 +4,39 @@
 
 <p align="center">
   <em>A friendly research workspace for students, curious minds, and future innovators.</em>
-</p>
-
-<p align="center">
+  <br><br>
   <strong>Discover research. Understand evidence. Plan smarter.</strong>
 </p>
 
 <p align="center">
-  <a href="#highlights">Explore Features</a> ·
-  <a href="#quick-start-windows">Get Started</a> ·
-  <a href="#api-configuration">API Setup</a> ·
-  <a href="#research-radar-workflow">Research Radar</a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-6A9990?style=flat-square" alt="MIT License">
+  </a>
 </p>
 
 ---
-<p align="center">
-  <img src="screenshots/home.png"
-       alt="Research Intelligence Platform dashboard"
-       width="100%">
-</p>
 
 # Research Intelligence Platform
 
 A Streamlit research workspace for discovering academic papers, exploring current web context, reviewing recent research-related news, comparing evidence, and turning research questions into practical student project plans.
+
+### 🌸 Meet Your Research Workspace
+
+<p align="center">
+  <img src="screenshots/home.png" alt="Research Intelligence Platform dashboard" width="85%">
+</p>
+
+<p align="center">
+  <em>From research discovery to paper analysis and project planning — all in one workspace.</em>
+</p>
+
+---
 
 ## Highlights
 
